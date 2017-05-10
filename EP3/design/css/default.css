@@ -1,0 +1,20 @@
+body{
+    background:black;
+    color:white;
+}
+
+h1{
+    color:red;
+}
+
+.blueText{
+    color:blue;
+}
+
+.redText{
+    color:red;
+}
+
+.large{
+    font-size:60px;
+}
